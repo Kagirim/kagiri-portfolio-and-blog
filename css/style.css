@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
-  padding: 7em 0;
+  padding: 1em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-blog,
   #fh5co-pricing,
   #fh5co-contact {
-    padding: 3em 0;
+    padding: 1em 0;
   }
 }
 
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   width: 90%;
-  float: left;
+  display: inline-block;
 }
 @media screen and (max-width: 768px) {
   .info {
@@ -406,7 +406,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 1em;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
