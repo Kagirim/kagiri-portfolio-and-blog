@@ -23,7 +23,7 @@ The personal blog section is a collection of articles I've written on various to
 
 ## How to Access
 
-To explore my portfolio, visit [link-to-portfolio](kagirim.github.io).
+To explore my portfolio, visit [link-to-portfolio] (kagirim.github.io).
 
 ## Contributing
 
