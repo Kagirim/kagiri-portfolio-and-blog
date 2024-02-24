@@ -1,17 +1,14 @@
 # Kagirim.github.io
-# Portfolio
 
 Welcome to my portfolio! This repository contains the code for my personal website showcasing my proficiency, accomplishments, and a collection of blogs I've written.
 
 ## Landing Page
 
-The landing page serves as an introduction to my background, skills, and achievements. It highlights my experience in backend engineering and proficiency in Python, JavaScript/Typescript, Golang. It also provides insights into my approach to problem-solving, collaboration, and strategic thinking.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kagirim&theme=radical)](https://git.io/streak-stats)
 
 ### Features
 
-- Detailed overview of my technical skills and expertise.
-- Showcases projects and accomplishments.
-- Provides a glimpse into my professional journey and approach to software development.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kagirim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Blog
 
