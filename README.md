@@ -2,8 +2,6 @@
 
 Welcome to my portfolio! This repository contains the code for my personal website showcasing my proficiency, accomplishments, and a collection of blogs I've written.
 
-## Landing Page
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kagirim&theme=radical)](https://git.io/streak-stats)
 
 ### Features
