@@ -1,6 +1,7 @@
 # Kagirim.github.io
 
 Welcome to my portfolio! This repository contains the code for my personal website showcasing my proficiency, accomplishments, and a collection of blogs I've written.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kagirim&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kagirim&theme=radical)](https://git.io/streak-stats)
 
