@@ -19,11 +19,12 @@ The personal blog section is a collection of articles I've written on various to
 
 ### Blogs
 
-1. [Title of Blog 1](link-to-blog-1) - A brief description or teaser of the blog.
+1. Mastering Goal Setting (Kagirim.github.io/) - A brief description or teaser of the blog.
 
 ## How to Access
 
-To explore my portfolio, visit [link-to-portfolio] (kagirim.github.io).
+To explore my portfolio, visit [Kagirim.github.io
+/blog-single.html] (kagirim.github.io).
 
 ## Contributing
 
