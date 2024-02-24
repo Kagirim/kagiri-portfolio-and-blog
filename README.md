@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository contains the code for my personal websi
 
 ## Landing Page
 
-The landing page serves as an introduction to my background, skills, and achievements. It highlights my experience in backend engineering and proficiency in Python, Golang, Django, JavaScript, and more. It also provides insights into my approach to problem-solving, collaboration, and strategic thinking.
+The landing page serves as an introduction to my background, skills, and achievements. It highlights my experience in backend engineering and proficiency in Python, JavaScript/Typescript, Golang. It also provides insights into my approach to problem-solving, collaboration, and strategic thinking.
 
 ### Features
 
@@ -19,7 +19,7 @@ The personal blog section is a collection of articles I've written on various to
 
 ### Blogs
 
-1. [Mastering Goal Setting](kagirim.github.io/blog-single.html) - A brief description or teaser of the blog.
+1. [Mastering Goal Setting](kagirim.github.io/blog-single.html) - Unlock the science of goal-setting with insights from Dr. Andrew David Huberman, with evidence-based strategies to navigate your personal and professional growth..
 
 ## How to Access
 
