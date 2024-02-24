@@ -19,7 +19,7 @@ The personal blog section is a collection of articles I've written on various to
 
 ### Blogs
 
-1. [Mastering Goal Setting] (kagirim.github.io/blog-single.html) - A brief description or teaser of the blog.
+1. [Mastering Goal Setting](kagirim.github.io/blog-single.html) - A brief description or teaser of the blog.
 
 ## How to Access
 
