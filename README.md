@@ -3,13 +3,12 @@
 Welcome to my portfolio! This repository contains the code for my personal website showcasing my proficiency, accomplishments, and a collection of blogs I've written.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kagirim)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kagirim&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kagirim&theme=radical)](https://git.io/streak-stats)
 
-### Features
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kagirim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Blog
 
