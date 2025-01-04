@@ -1,0 +1,4 @@
+# ignore artifacts
+build
+node_modules
+img
