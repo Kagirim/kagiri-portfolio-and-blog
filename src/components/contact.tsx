@@ -50,13 +50,7 @@ export default function Contact() {
                             <label htmlFor="message" className="absolute top-3 -z-10 origin-[0] -translate-y-6 scale-75 transform text-sm text-gray-500 duration-300 peer-placeholder-shown:translate-y-0 peer-placeholder-shown:scale-100 peer-focus:left-0 peer-focus:-translate-y-6 peer-focus:scale-75 peer-focus:text-blue-600 peer-focus:dark:text-blue-500">Your message</label>
                         </div>
                         <button type="submit" disabled={status.submitting} className="relative z-0 mt-5 rounded-md bg-darkBlue py-.5 px-2 text-white hover:bg-navyBlue">
-                            {
-                                !status.submitting
-                                ? !status.submitted
-                                    ? 'Submit'
-                                    : 'Submitted'
-                                : 'Submitting...'
-                            }
+                            { !status.submitting ? !status.submitted ? 'Submit' : 'Submitted' : 'Submitting...' }
                         </button>
                     </div>
                 </form>

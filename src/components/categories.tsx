@@ -9,8 +9,8 @@ export default function Categories({ categories }: { categories: any[] }) {
             <section className="font-mono">
                 <blockquote className="text-xl italic font-semibold text-center text-gray-900 dark:text-white">
                     <p className="text-slate-600">
-                        I love to dig into customer problems and find suitable solutions. I like to create, scale and optimize business portfolios.
-                        You will often find me around developer societies and groups in Nairobi, looking to learn and share knowledge. I am a big fan of open-source software and I am always looking for ways to contribute.
+                        I dig into customer problems and find solutions. I create, scale and optimize business portfolios.
+                        You will often find me around developer societies and groups in Nairobi, looking to learn and collaborate. I love building open-source and I am always looking for ways to contribute.
                     </p>
                 </blockquote>
             </section>
